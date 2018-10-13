@@ -11,3 +11,8 @@ https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysq
 
 - http://localhost:8080/registration
 - http://localhost:8080/login
+
+Code download from https://github.com/gustavoponce7/spring-login/blob/master/pom.xml
++ Tình trạng : Khi tải về vẫn đang lỗi 
++Cách khác phục : Thêm 1 số thư viện
++ Tình trạng hiện tại : Giảm lỗi nhưng vẫn còn
